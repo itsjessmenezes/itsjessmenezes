@@ -1,12 +1,13 @@
-### Hi, Jessica Menezes here 👋
+## Hi, Jessica Menezes here 👋
 
 💻 Full Stack Developer - specializing in Frontend.</br>
 🏠 I'm from Divinópolis, MG - Brazil.</br>
 🌱 I’m currently learning about technology and software development.</br>
 👩‍🚀 about me: I love art, technology and everything about knowledge. I'm a very curious person and I'm always looking for something to learn.
 
-
 <!--
+<img align="right" alt="Jess-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/65072062?s=96&v=4">
+
 **itsjessmenezes/itsjessmenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,12 +22,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div align="center">
   <a href="https://github.com/itsjessmenezes"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjessmenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjessmenezes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+##
+
+### Skills
 <div style="display: inline-block"><br>
   <img align="center" alt="Jess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -36,11 +40,16 @@ Here are some ideas to get you started:
   <img align="center" alt="Jess-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Jess-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Jess-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+</div>
+
+### Others Skills
+<div style="display: inline-block"><br>
   <img align="center" alt="Jess-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Jess-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Jess-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">  
-  <img align="right" alt="Jess-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/65072062?s=96&v=4">
 </div>
+
+</br>
   
   ##
  

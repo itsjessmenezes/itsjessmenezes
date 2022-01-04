@@ -1,8 +1,8 @@
 ### Hi, Jessica Menezes here 👋
 
-💻 Full Stack Developer - specializing in Frontend.
-🏠 I'm from Divinópolis, MG - Brazil.
-🌱 I’m currently learning about technology and software development.
+💻 Full Stack Developer - specializing in Frontend.</br>
+🏠 I'm from Divinópolis, MG - Brazil.</br>
+🌱 I’m currently learning about technology and software development.</br>
 👩‍🚀 about me: I love art, technology and everything about knowledge. I'm a very curious person and I'm always looking for something to learn.
 
 

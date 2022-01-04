@@ -1,4 +1,10 @@
-### Oie, Jessica Menezes aqui 👋
+### Hi, Jessica Menezes here 👋
+
+💻 Full Stack Developer - specializing in Frontend.
+🏠 I'm from Divinópolis, MG - Brazil.
+🌱 I’m currently learning about technology and software development.
+👩‍🚀 about me: I love art, technology and everything about knowledge. I'm a very curious person and I'm always looking for something to learn.
+
 
 <!--
 **itsjessmenezes/itsjessmenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

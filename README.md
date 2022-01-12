@@ -3,7 +3,7 @@
 💻 Full Stack Developer - specializing in Frontend.</br>
 🏠 I'm from Divinópolis, MG - Brazil.</br>
 🌱 I’m currently learning about technology and software development.</br>
-👩‍🚀 about me: I love art, technology and everything about knowledge. I'm a very curious person and I'm always looking for something to learn.
+👩‍🚀 about me: I love art, technology and everything about knowledge. I'm a very curious person and I'm always looking for something to learn.</br>
 👩‍💻 My porfolio: <a href="https://portfolio-jessicamnatividade.vercel.app/" target="_blank" >link from portfolio</a>
 
 <!--

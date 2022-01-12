@@ -4,7 +4,7 @@
 🏠 I'm from Divinópolis, MG - Brazil.</br>
 🌱 I’m currently learning about technology and software development.</br>
 👩‍🚀 about me: I love art, technology and everything about knowledge. I'm a very curious person and I'm always looking for something to learn.
-👩‍💻 My porfolio: <a target="blank" href="https://portfolio-jessicamnatividade.vercel.app/">link from portfolio</a>
+👩‍💻 My porfolio: <a href="https://portfolio-jessicamnatividade.vercel.app/" target="_blank" >link from portfolio</a>
 
 <!--
 <img align="right" alt="Jess-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/65072062?s=96&v=4">
